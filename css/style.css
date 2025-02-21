@@ -1,0 +1,27 @@
+.chess{
+    margin: 20px auto;
+    width: 600px;
+    height: 600px;
+    border: 20px solid #333232;
+}
+.box1{
+    height: 75px;
+    width: 75px;
+    background-color: #DCDCDC;
+    float: left;
+    font-size: 40px; 
+    text-align: center; 
+    line-height: 75px; 
+}
+.box2{
+    height: 75px;
+    width: 75px;
+    background-color: #808080;
+    float: left;
+    font-size: 40px; 
+    text-align: center; 
+    line-height: 75px; 
+}
+.clear-float{
+    clear: both;
+}
